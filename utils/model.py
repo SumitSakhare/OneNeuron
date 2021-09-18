@@ -1,5 +1,5 @@
-
-
+import numpy as np
+import pandas as pd
 
 class Perceptron:
   def __init__ (self, eta, epoch):
